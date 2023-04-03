@@ -6,4 +6,4 @@ My love for number theory and problem solving led me to become the teaching assi
 
 These are the solutions I wrote for Fall 2021. I'm proud of how accessible and intuitive I made it for everyone, as there was a large range of comfort with number theory in the class. I care a lot about good mathematics education, and I wish to show that here!
 
-You can find my best work in problems 3, 4, and 7 of the Number Theory assignment.
+If you want to find one question that encompasses my best work, check out problem 7 of the Number Theory assignment!
